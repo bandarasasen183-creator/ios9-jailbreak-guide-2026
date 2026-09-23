@@ -1,7 +1,7 @@
 # The Modern Guide to iOS 9 Jailbreaking & Sideloading (2026 Edition)
 Last Updated: September 2026
 
-*(Want to see every single error, typo, and roadblock I hit along the way? [Read my Full Detailed Developer Log here](iOS9_Detailed_Journey_Log.md))*
+*(Want to see every single error, typo, and roadblock I hit along the way? [Read my Full Detailed Developer Log here]([iOS9_Detailed_Journey_Log.md](https://github.com/bandarasasen183-creator/ios9-jailbreak-guide-2026/blob/c7f81caa63dce93e56de14d0172f177f6203e2fd/iOS9_Full_Version.md)))*
 
 Welcome! If your trying to jailbreak an iOS 9 device (like an iPad 2) or sideload custom .ipa files today, youve probably realized that almost all of the tutorials online no longer work at all. 
 
